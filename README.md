@@ -9,7 +9,7 @@ você també pode pesquisar mais sobre IMC > [Wikipedia](https://pt.wikipedia.or
 
 > O programa deve perdmitir a entrada do nome de usuário.
 
-> O programa deve permitir que o usuário entre com (((unidades imperiais))) ou (((unidades métricas)))
+> O programa deve permitir que o usuário entre com [unidades imperiais](https://pt.wikipedia.org/wiki/Unidade_inglesa) ou [unidades métricas](https://pt.wikipedia.org/wiki/Sistema_métrico)
 
 > Se o usuário entrar com unidades imperiais de altura, deve ser adicionada feet e inches. O peso deve ser stones e pounds. O programa deve convertelos em unidades metricas e mostrar na tela.
 
